@@ -1,9 +1,13 @@
 # surfboard
+
+This is a devboard made with rp2040. It has 40 pins and 3 LEDs.
+
 While making the devboard, or surfboard, I learned more about creating things in the kicad shematic, and how to route wires when their is a tight space. I also learned how to add labels to wire components together in the schematic.
 
+## Images
 
 
-# Bill of Materials
+## Bill of Materials
 | Item                | Unit Price ($) | Link                                                                 | Quantity | Total ($) |
 |---------------------|----------------|----------------------------------------------------------------------|----------|-----------|
 | Capacitor 0.1uF     | 0.30           | [C52923](https://www.lcsc.com/product-detail/C52923.html?s_z=n_CL05A105KA5NQNC) | 11       | 3.30      |
