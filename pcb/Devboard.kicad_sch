@@ -8541,7 +8541,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" ".1uF"
 			(at 132.08 31.7499 0)
 			(effects
 				(font
@@ -9280,7 +9280,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1uF"
 			(at 149.86 31.7499 0)
 			(effects
 				(font
@@ -9489,7 +9489,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" ".1uF"
 			(at 191.516 32.004 0)
 			(effects
 				(font
@@ -9559,7 +9559,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 240.03 43.1799 0)
 			(effects
 				(font
@@ -9628,7 +9628,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" ".1uF"
 			(at 166.878 32.004 0)
 			(effects
 				(font
@@ -9819,18 +9819,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "62cc66c8-e11b-4857-bafe-d268bd636c88")
 		(property "Reference" "R2"
-			(at 257.81 121.92 90)
+			(at 257.81 125.476 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 257.81 124.46 90)
+		(property "Value" "1K"
+			(at 258.318 131.572 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10019,7 +10018,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" ".1uF"
 			(at 178.816 32.258 0)
 			(effects
 				(font
@@ -10088,8 +10087,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 146.05 31.7499 0)
+		(property "Value" ".1uF"
+			(at 146.05 32.004 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10157,7 +10156,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" ".1uF"
 			(at 185.166 31.75 0)
 			(effects
 				(font
@@ -10226,7 +10225,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" ".1uF"
 			(at 173.482 31.75 0)
 			(effects
 				(font
@@ -11268,7 +11267,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF"
 			(at 96.52 39.3699 0)
 			(effects
 				(font
@@ -11557,7 +11556,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" ".1uF"
 			(at 125.73 31.7499 0)
 			(effects
 				(font
@@ -11694,7 +11693,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" ".1uF"
 			(at 264.16 30.48 90)
 			(effects
 				(font
@@ -11967,7 +11966,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "27"
 			(at 127 73.406 90)
 			(effects
 				(font
@@ -12025,10 +12024,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "beadb4a5-77c0-4618-8548-6203f04e6505")
 		(property "Reference" "C14"
-			(at 73.66 36.8299 0)
+			(at 70.358 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12036,8 +12034,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 73.66 39.3699 0)
+		(property "Value" "10uF"
+			(at 72.39 39.878 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12435,7 +12433,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" ".1uF"
 			(at 160.274 31.75 0)
 			(effects
 				(font
@@ -12504,7 +12502,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1K"
 			(at 228.6 44.45 90)
 			(effects
 				(font
@@ -12573,7 +12571,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1uF"
 			(at 119.38 31.7499 0)
 			(effects
 				(font
@@ -12831,7 +12829,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" ".1uF"
 			(at 197.612 32.258 0)
 			(effects
 				(font
@@ -12971,7 +12969,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "27"
 			(at 127 64.77 90)
 			(effects
 				(font

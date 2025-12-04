@@ -1,0 +1,19 @@
+Name,Cost,Link,Quantity
+Capacitor .1uF,0.3,https://www.lcsc.com/product-detail/C52923.html?s_z=n_CL05A105KA5NQNC,11
+Capacitor 33pF,0.1,https://www.lcsc.com/product-detail/C1562.html?s_z=n_0402CG330J500NT,2
+Capacitor 1uF,0.25,https://www.lcsc.com/product-detail/C42431804.html,2
+Capacitor 10uF,0.29,https://www.lcsc.com/product-detail/C19702.html?s_z=n_CL10A106KP8NNNC,2
+Resistor 27,0.6,https://www.lcsc.com/product-detail/C25100.html,2
+Resistor 1K,0.06,https://www.lcsc.com/product-detail/C11702.html?s_z=n_0402WGF1001TCE,2
+Resistor 5.1K,0.05,https://www.lcsc.com/product-detail/C25905.html?s_z=n_0402WGF5101TCE,2
+Resistor 10K,0.06,https://www.lcsc.com/product-detail/C25744.html?s_z=n_0402WGF1002TCE,1
+SK6812MINI LED,0.43,https://www.lcsc.com/product-detail/C5149201.html,3
+1x03 Pin Header,0,https://www.lcsc.com/product-detail/C42431804.html,1
+1x20 Pin Header,0.17,https://www.lcsc.com/product-detail/C42431804.html,2
+12 Mhz Crystal,0.67,https://www.lcsc.com/product-detail/C9002.html?s_z=n_X322512MSB4SI,1
+USB C Receptacle,0.88,https://www.lcsc.com/product-detail/C165948.html?s_z=n_TYPE-C-31-M-12,1
+Flash Memory,1.6,https://www.lcsc.com/product-detail/C97521.html?s_z=n_W25Q128JVSIQ,1
+Voltage Regulator,1.36,https://www.lcsc.com/product-detail/C3054.html?s_z=n_IRFL9014TRPBF,1
+Button,0.42,https://www.lcsc.com/product-detail/C720477.html,
+RP2040,0.95,https://www.lcsc.com/product-detail/C2040.html?s_z=n_RP2040,1
+PCBA,44.02,jlcpcb.com,1
