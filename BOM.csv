@@ -12,8 +12,9 @@ SK6812MINI LED,0.43,https://www.lcsc.com/product-detail/C5149201.html,3
 1x20 Pin Header,0.17,https://www.lcsc.com/product-detail/C42431804.html,2
 12 Mhz Crystal,0.67,https://www.lcsc.com/product-detail/C9002.html?s_z=n_X322512MSB4SI,1
 USB C Receptacle,0.88,https://www.lcsc.com/product-detail/C165948.html?s_z=n_TYPE-C-31-M-12,1
-Flash Memory,1.6,https://www.lcsc.com/product-detail/C97521.html?s_z=n_W25Q128JVSIQ,1
-Voltage Regulator,1.36,https://www.lcsc.com/product-detail/C3054.html?s_z=n_IRFL9014TRPBF,1
+Flash Memory,0.95,https://www.lcsc.com/product-detail/C179171.html?s_z=n_Winbond%2520W25Q128JVSs,1
+Voltage Regulator,0.33,https://www.lcsc.com/product-detail/C2891841.html,1
 Button,0.42,https://www.lcsc.com/product-detail/C720477.html,
 RP2040,0.95,https://www.lcsc.com/product-detail/C2040.html?s_z=n_RP2040,1
 PCBA,44.02,jlcpcb.com,1
+Total,50.53,,
