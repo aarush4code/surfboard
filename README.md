@@ -5,13 +5,14 @@ This is a devboard made with rp2040. It has 40 pins and 3 LEDs.
 While making the devboard, or surfboard, I learned more about creating things in the kicad shematic, and how to route wires when their is a tight space. I also learned how to add labels to wire components together in the schematic.
 
 ## Images
-<img width="1205" height="816" alt="image" src="https://github.com/user-attachments/assets/dec4d7da-f6c4-4528-850f-cf74feaf060a" />
+<img width="862" height="591" alt="image" src="https://github.com/user-attachments/assets/0e3c8fc3-148d-423f-be61-488840bddc68" />
 
-<img width="374" height="793" alt="image" src="https://github.com/user-attachments/assets/42512f85-9916-47e4-8c3e-0060e19f0ee4" />
+<img width="327" height="735" alt="image" src="https://github.com/user-attachments/assets/7f422001-a0e1-4a28-be11-5f6f88fc470f" />
 
-<img width="335" height="730" alt="image" src="https://github.com/user-attachments/assets/be5af1fa-b6c4-4ee4-8520-a5e9766a64eb" />
+<img width="377" height="741" alt="image" src="https://github.com/user-attachments/assets/5c151fd8-a2cf-45b7-9251-06d24d9b37a7" />
 
-<img width="421" height="731" alt="image" src="https://github.com/user-attachments/assets/fe4d71c5-0b76-4745-83c9-cbd6ca73cd9d" />
+
+<img width="343" height="687" alt="image" src="https://github.com/user-attachments/assets/c3d2982f-bfb2-4681-8267-70bdebbbcd74" />
 
 
 ## Bill of Materials
